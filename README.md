@@ -1,4 +1,3 @@
-# firstname-lastname-template
+# YiziChen homepage
   
-
-Template for LASTIG researchers personal webpage.
+The LASTIG homepage of Yizi Chen
